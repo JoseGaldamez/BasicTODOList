@@ -1,0 +1,26 @@
+body{
+    padding: 50px;
+}
+p{
+    cursor: pointer;
+    margin: 0px;
+}
+.list-group-item{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+ul{
+    padding: 0px;
+    margin: 0px;
+}
+
+.btn-block{
+    width: 100%;
+}
+
+.complete{
+    text-decoration: line-through;
+}
+

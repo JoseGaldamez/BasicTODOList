@@ -1,3 +1,10 @@
 body{
     padding: 70px;
 }
+
+blockquote{
+    width: 100%;
+    background-color: #f9f9f9;
+    padding: 10px;
+    text-align: center; 
+}
